@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello!👋
 I'm Dan, a student at the University Of Waterloo studying Computer Engineering.
 
 I do my best to either practice coding or build cool projects. Currently learning about full-stack development
