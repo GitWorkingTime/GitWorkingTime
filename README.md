@@ -2,9 +2,10 @@
 I'm Dan, a student at the University Of Waterloo studying Computer Engineering.
 
 I do my best to either practice coding or build cool projects. Currently learning about full-stack development
-through _The Odin Project_. 
+through _The Odin Project_. I'm also looking to dive into hardware projects with the ESP32 or STM32 which, _hopefully_,
+turns out well. 
 
-Languages:
+Programming Languages:
 - C++
 - HTML
 - CSS
