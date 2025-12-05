@@ -13,6 +13,11 @@ Programming Languages:
 
 Check out some of the pinned projects which I am most happy with! My favourite is the 
 custom web server built in C to host my own messaging app found in [here](https://github.com/GitWorkingTime/CSE-FP-CS30-V2)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GitWorkingTime&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=GitWorkingTime&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GitWorkingTime&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!--
 **GitWorkingTime/GitWorkingTime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
