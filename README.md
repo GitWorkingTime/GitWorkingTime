@@ -6,7 +6,7 @@ through _The Odin Project_. I'm also looking to dive into hardware projects with
 turns out well. 
 
 Check out some of the pinned projects which I am most happy with! My favourite is the 
-custom web server built in C to host my own messaging app found in [here](https://github.com/GitWorkingTime/CSE-FP-CS30-V2) and this quick extension type checker made in Python [here](https://github.com/GitWorkingTime/HeaderSniffer)
+custom web server built in C to host my own messaging app found in [here](https://github.com/GitWorkingTime/CSE-FP-CS30-V2) and this quick file extension type checker made in Python [here](https://github.com/GitWorkingTime/HeaderSniffer)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GitWorkingTime&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=GitWorkingTime&theme=dark&hide_border=false)<br/>
